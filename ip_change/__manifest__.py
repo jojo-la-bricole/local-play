@@ -21,5 +21,5 @@
     'application': True,
     'assets': {
     },
-    'license': 'MIT',
+    # 'license': 'MIT',
 }
